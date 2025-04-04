@@ -4,13 +4,13 @@
 >
 ##  Criterios de evaluación
 
- - Análisis Exploratorio de los datos.
- 
- - Gestión de nulos. 
- 
- - Visualización de datos con matplotlib y seaborn.
- 
- - Estadística descriptiva e inferencial.
+* 🔍 ***Análisis Exploratorio de los Datos***
+
+* 🧹 ***Gestión de Nulos***
+
+* 📊 ***Visualización de Datos con Matplotlib y Seaborn***
+
+* 📈 ***Estadística Descriptiva e Inferencial***
 
 ## Contenido
 
