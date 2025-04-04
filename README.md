@@ -45,4 +45,4 @@ plt.pie(tarj_counts,
 plt.title("Porcentaje de clientes con diferentes tipos de tarjetas de fidelidad", fontsize=10) # Ajustar el tamaño del título
 plt.show(); 
 ```
-![Diagrama](https://github.com/Adalab/bda-modulo-2-evaluacion-final-JazminKS/blob/main/FILES/Diagrama1.png)
+![Diagrama](https://github.com/Adalab/bda-modulo-3-evaluacion-final-JazminKS/blob/main/FILES/Diagrama.png)
