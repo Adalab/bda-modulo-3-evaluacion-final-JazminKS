@@ -26,7 +26,7 @@ Los datos que se proporciona consisten en dos conjuntos de archivos que, en conj
     ¿Cuál es la proporción de clientes con diferentes tipos de tarjetas de fidelidad?
 
 ```js
-## #PASO1. Calcula la frecuencia de cada tipo de tarjeta de fidelidad.
+#PASO1. Calcula la frecuencia de cada tipo de tarjeta de fidelidad.
 tarj_counts = df_customer['loyalty_card'].value_counts()
 
 #PASO2. Paleta de colores de seaborn
@@ -42,7 +42,7 @@ plt.pie(tarj_counts,
         wedgeprops={'linewidth': 1, 'edgecolor': 'white'})
 
 #PASO4. Ponemos título a la gráfica
-plt.title("Porcentaje de clientes con diferentes tipos de tarjetas de fidelidad", fontsize=10) # Ajustar el tamaño del título
+plt.title("Porcentaje de clientes con diferentes tipos de tarjetas de fidelidad", fontsize=10) #Ajustar el tamaño del título
 plt.show(); 
 ```
 ![Diagrama](https://github.com/Adalab/bda-modulo-3-evaluacion-final-JazminKS/blob/main/FILES/Diagrama.png)
